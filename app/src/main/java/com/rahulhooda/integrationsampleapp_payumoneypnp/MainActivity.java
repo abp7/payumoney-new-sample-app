@@ -505,7 +505,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
     }
 
     /**
-     * Thus function calculates the hash for transaction
+     * This function calculates the hash for transaction
      *
      * @param paymentParam payment params of transaction
      * @return payment params along with calculated merchant hash
